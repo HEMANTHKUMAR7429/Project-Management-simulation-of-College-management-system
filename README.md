@@ -69,5 +69,5 @@ To simulate real-world Agile tracking, Jira was used to:
 
 ## 🔗 Live Repository Link
 
-> This repository serves as a **project portfolio** to demonstrate project planning skills for job applications in **Project Management** or **Project Coordinator** roles.
+> This repository serves as a **project portfolio** to demonstrate project planning skills for job applications in **Project Management** or **Project Coordinator** roles. 
 
