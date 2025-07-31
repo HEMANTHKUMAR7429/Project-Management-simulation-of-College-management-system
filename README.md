@@ -1,7 +1,6 @@
 # 📘 Project Management Simulation – College Management System
 
-This repository contains a complete simulation of a software development project for a **College Management System**, focusing on **Project Management practices** suitable for fresher-level learning.  
-It showcases the creation and documentation of all essential project management artifacts, along with practical Agile tracking using **Jira**.
+This repository contains a complete simulation of a software development project for a **College Management System**, focusing on **Project Management practices** 
 
 ---
 
